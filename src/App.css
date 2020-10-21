@@ -1,0 +1,23 @@
+.App .container {
+  display: block;
+  margin: 12px auto 15px;
+  max-width: 600px;
+  height: 560px;
+  background-image: linear-gradient(
+    180deg,
+    rgba(212, 209, 255, 1) 0%,
+    rgba(144, 255, 227, 1) 32%,
+    rgba(117, 227, 250, 1) 100%
+  );
+  border-radius: 20px;
+  padding: 20px;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize;
+  color: #1f4068;
+}
+
+.App .appName {
+  float: right;
+  font-size: 25px;
+  color: rgb(8, 112, 8);
+}

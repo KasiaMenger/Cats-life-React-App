@@ -1,0 +1,20 @@
+.dayInfo {
+  list-style: none;
+  font-size: 15px;
+  line-height: 2;
+  padding-left: 35px;
+  margin-top: -65px;
+  margin-bottom: 30px;
+  text-transform: none;
+}
+
+.emojiInfo {
+  margin-right: 7px;
+}
+
+.weatherDescription {
+  float: right;
+  margin-top: -18px;
+  margin-right: -85px;
+  font-size: 17px;
+}

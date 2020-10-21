@@ -1,0 +1,20 @@
+.present {
+  margin-left: 35px;
+  font-size: 17px;
+}
+
+.presentDate {
+  font-size: 15px;
+  right: -16px;
+  padding: 5px 0;
+}
+
+.presentTime {
+  font-size: 15px;
+  right: -24px;
+  color: rgb(0, 94, 0);
+}
+.emojiInfo {
+  font-size: 15px;
+  padding: 5px 0;
+}

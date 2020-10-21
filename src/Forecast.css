@@ -1,0 +1,17 @@
+.card {
+  border-radius: 10px;
+  text-align: center;
+  font-size: 12px;
+  background-color: transparent;
+  transition: all 200ms ease-in-out;
+}
+
+.card:hover {
+  border: 1px solid #73da6a;
+  box-shadow: 9px 9px 86px #d1fdff;
+  cursor: pointer;
+}
+
+.card-body {
+  padding: 15px;
+}
