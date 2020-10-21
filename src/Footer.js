@@ -7,7 +7,7 @@ export default function Footer() {
       <br />
       <a
         rel="noopener noreferrer"
-        href="https://github.com/KasiaMenger/Cat-s-life-and-Weather"
+        href="https://github.com/KasiaMenger/Cats-life-React-App"
         target="_blank"
       >
         Open-Source Code {""}
