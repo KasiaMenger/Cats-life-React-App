@@ -55,8 +55,8 @@ export default function WeatherForecast({ data, unit}) {
           <strong>{hours()}</strong>
           <br />
           <div className="temperature">
-            <span className="maxTemperature"> {maxTemperatureFahrenheit}</span>℃ /
-            <span className="minTemperature"> {minTemperatureFahrenheit}</span>℃
+            <span className="maxTemperature"> {maxTemperatureFahrenheit}</span>℉ /
+            <span className="minTemperature"> {minTemperatureFahrenheit}</span>℉
           </div>
         </div>
       </div>
