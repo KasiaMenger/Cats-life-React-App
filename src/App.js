@@ -9,7 +9,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <div className="appName">Cat's life</div>
+        <div className="appName">KATZ R KOOL</div>
         <Search defaultCity="Paris" />
         <Footer />
       </div>
